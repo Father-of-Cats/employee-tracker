@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "an app for viewing and managing employees at a business",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Father-of-Cats/employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Father-of-Cats/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Father-of-Cats/employee-tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
