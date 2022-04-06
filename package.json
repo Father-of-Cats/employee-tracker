@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/Father-of-Cats/employee-tracker#readme",
   "dependencies": {
-    "inquirer": "^8.2.2"
+    "inquirer": "^8.2.2",
+    "mysql2": "^2.3.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
